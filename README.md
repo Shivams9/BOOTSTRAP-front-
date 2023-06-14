@@ -83,31 +83,20 @@ div{
     <div class="col-sm-3 ">
         3-4
     </div>
-    
-
-
-
-
-        <!--*********4nd row *********-->
+            <!--*********4nd row *********-->
     </div>
     <div class="row">
       <div class="col">
-        
-       4-1
-    
-
-
-
-  
+       4-1  
 </div>
   </div>
-
-
-
-
-
   </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
   </body>
 </html>
+
+#Examples Of Divs
+![div practice](https://github.com/Shivams9/BOOTSTRAP-front-/assets/91686685/8b5cc8c2-038a-41fe-9765-cb1687688b96)
+
+
